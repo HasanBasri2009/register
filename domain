@@ -1,0 +1,10 @@
+{
+    "domain": "creepers.sbs",
+    "subdomain": "kardeslernetwork42",
+    "records": [
+        {
+            "type": "A",
+            "content": "88.241.43.158"
+        }
+    ]
+}
